@@ -1,4 +1,4 @@
-# Requirements to Class Diagram Generation
+# Requirements for Class Diagram Generation
 
 This repository contains the implementation of our *Requirements to Class Diagram Generation* model. The project focuses on automatically generating class diagrams from natural language requirements using machine learning techniques. Below, you can find links to the requirement problems and their corresponding solutions hosted on Google Sheets, as well as the code implementation hosted on Google Colab.
 
