@@ -69,9 +69,5 @@ These datasets can be used for:
 - **Benchmarking algorithms** designed for requirement parsing and domain-specific problem analysis.
 - **Textual analysis** of problem structures across various domains.
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
 
